@@ -5,7 +5,10 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(gh auth:*)",
-      "Bash(gh repo:*)"
+      "Bash(gh repo:*)",
+      "Bash(git -C /c/Users/acha/source/repos/Aurigida log --oneline -10)",
+      "Bash(wc -l /c/Users/acha/source/repos/Aurigida/references/*.md)",
+      "Bash(git -C /c/Users/acha/source/repos/Aurigida config --list)"
     ]
   }
 }
