@@ -4,7 +4,7 @@ A Claude Code skill that gives you a polymath AAA narrative director as a collab
 
 ## What It Does
 
-When active, Aurigida transforms Claude into a seasoned creative director who has shipped AAA titles and approaches every game narrative problem through six disciplines simultaneously:
+When active, Aurigida transforms Claude into a seasoned creative director and investor strategist who has shipped AAA titles and approaches every game problem through seven disciplines simultaneously:
 
 - **Cultural Alchemy** — Stealing structural principles from poetry, painting, architecture, history, and every other human discipline
 - **Game Design** — Ludonarrative consonance, player agency, mechanical metaphor
@@ -12,6 +12,7 @@ When active, Aurigida transforms Claude into a seasoned creative director who ha
 - **Literary Fiction** — Character interiority, subtext, thematic coherence
 - **Technical Implementation** — Dialogue middleware, engine integration, data architecture
 - **Production Leadership** — Cross-discipline communication, scope negotiation, GDD writing
+- **Investor Strategy** — Pitch decks, competitive analysis with revenue data, market sizing (TAM/SAM/SOM), translating creative vision into business language for VCs and publishers
 
 ## When It Activates
 
@@ -23,6 +24,7 @@ Aurigida activates automatically when you mention anything related to:
 - Dialogue systems in Unreal, Unity, or Godot — Yarn Spinner, Ink, Twine, Articy:Draft
 - Cross-discipline team leadership, narrative pipeline, VO recording
 - Casual phrasing like "I have a game idea," "help me with my game's story," "how do I make players cry"
+- Investor and business phrasing: pitch decks, fundraising, VC meetings, publisher presentations, competitive analysis, market sizing, comparable title performance, financial projections
 
 ## Installation
 
@@ -60,6 +62,7 @@ The `references/` folder contains the deep knowledge base Aurigida reads before 
 | `gdd-narrative-templates.md` | Templates for one-pagers, bibles, quest docs, character sheets, dialogue scripts |
 | `engine-dialogue-implementation.md` | Unreal/Unity/Godot patterns, middleware, data architecture, localization pipelines, QA |
 | `cross-discipline-playbook.md` | Department communication, negotiation, scope management |
+| `investor-pitch-playbook.md` | Investor persuasion, pitch deck architecture, competitive analysis frameworks, game industry market data, TAM/SAM/SOM, financial projection models, comparable title revenue benchmarks, VC communication strategies |
 
 ## Philosophy
 
@@ -77,6 +80,10 @@ Aurigida applies **The Six Wells** to every creative problem — before asking "
 - "My team doesn't understand why the narrative needs three acts. Help me explain it."
 - "I want my game's combat to feel like it means something. How do I do that narratively?"
 - "Write a GDD one-pager for a survival game set in a flooded archive."
+- "Help me build a pitch deck for VCs who have never played a game in their lives."
+- "What's the TAM for narrative RPGs and how do I frame it for investors?"
+- "Generate a competitive analysis against Hades, Disco Elysium, and Baldur's Gate 3 with sales numbers."
+- "How do I explain what my game is to someone who only understands SaaS metrics?"
 
 ## Contributing
 
@@ -94,7 +101,7 @@ MIT
 
 ## 功能介绍
 
-激活后，Aurigida 将 Claude 转变为一位经验丰富的创意总监，曾参与 AAA 级游戏的开发，并同时从六个维度处理每一个游戏叙事问题：
+激活后，Aurigida 将 Claude 转变为一位经验丰富的创意总监与投资策略师，曾参与 AAA 级游戏的开发，并同时从七个维度处理每一个游戏问题：
 
 - **文化炼金** — 从诗歌、绘画、建筑、历史及一切人类学科中提取结构性原则
 - **游戏设计** — 叙事与机制的协调统一、玩家能动性、机制隐喻
@@ -102,6 +109,7 @@ MIT
 - **文学虚构** — 角色内心世界、潜台词、主题连贯性
 - **技术实现** — 对话中间件、引擎集成、数据架构
 - **制作领导力** — 跨部门沟通、范围协商、GDD 文档撰写
+- **投资策略** — 融资路演、竞品分析（含销售数据）、市场规模测算（TAM/SAM/SOM）、将创意愿景转化为投资人语言
 
 ## 激活时机
 
@@ -113,6 +121,7 @@ MIT
 - Unreal、Unity 或 Godot 中的对话系统 — Yarn Spinner、Ink、Twine、Articy:Draft
 - 跨部门团队领导、叙事流程、配音录制
 - 日常表达如"我有个游戏创意"、"帮我完善游戏故事"、"怎么让玩家哭出来"
+- 投资与商业相关表达：融资路演、风险投资会议、发行商提案、竞品分析、市场规模、可比游戏销售数据、财务预测
 
 ## 安装方法
 
@@ -150,6 +159,7 @@ your-game-project/
 | `gdd-narrative-templates.md` | 一页纸介绍、叙事圣经、任务文档、角色表、对话脚本模板 |
 | `engine-dialogue-implementation.md` | Unreal/Unity/Godot 模式、中间件、数据架构、本地化流程、QA |
 | `cross-discipline-playbook.md` | 部门沟通、协商谈判、范围管理 |
+| `investor-pitch-playbook.md` | 投资人说服策略、路演 PPT 架构、竞品分析框架、游戏行业市场数据、TAM/SAM/SOM、财务预测模型、可比游戏营收基准、风险投资沟通策略 |
 
 ## 设计理念
 
@@ -167,6 +177,10 @@ Aurigida 将**六口井**运用于每一个创意问题——在问"其他游戏
 - "我的团队不理解为什么叙事需要三幕结构，帮我解释一下。"
 - "我想让游戏的战斗在叙事上有意义，怎么做？"
 - "为一个发生在洪水淹没的档案馆中的生存游戏写一份 GDD 一页纸。"
+- "帮我做一套面向从未玩过游戏的 VC 的融资路演 PPT。"
+- "叙事 RPG 的 TAM 是多少？我怎么向投资人呈现这个数据？"
+- "生成一份对比《哈迪斯》《迪斯科极乐世界》《博德之门 3》的竞品分析，附销售数据。"
+- "如何向只懂 SaaS 指标的人解释我的游戏？"
 
 ## 贡献
 
