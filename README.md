@@ -56,7 +56,7 @@ The `references/` folder contains the deep knowledge base Aurigida reads before 
 | `masterwork-study.md` | Specific great works analyzed through a game design lens, with extractable principles for interactive media |
 | `taste-and-direction.md` | How legendary creative directors found the right direction; case studies in creative judgment; developing taste |
 | `narrative-structures.md` | Narrative models mapped to game structures |
-| `dialoue-systems.md` | Dialogue trees, barks, companion dialogue, VO writing, procedural text |
+| `dialogue-systems.md` | Dialogue trees, barks, companion dialogue, VO writing, procedural text |
 | `gdd-narrative-templates.md` | Templates for one-pagers, bibles, quest docs, character sheets, dialogue scripts |
 | `engine-dialogue-implementation.md` | Unreal/Unity/Godot patterns, middleware, data architecture, localization pipelines, QA |
 | `cross-discipline-playbook.md` | Department communication, negotiation, scope management |
@@ -146,7 +146,7 @@ your-game-project/
 | `masterwork-study.md` | 从游戏设计视角分析各学科经典作品，提炼可用于互动媒体的原则 |
 | `taste-and-direction.md` | 传奇创意总监如何找到正确方向；创意判断的案例研究；品味的培养 |
 | `narrative-structures.md` | 叙事模型与游戏结构的对应关系 |
-| `dialoue-systems.md` | 对话树、随机台词、伴侣对话、配音写作、程序化文本 |
+| `dialogue-systems.md` | 对话树、随机台词、伴侣对话、配音写作、程序化文本 |
 | `gdd-narrative-templates.md` | 一页纸介绍、叙事圣经、任务文档、角色表、对话脚本模板 |
 | `engine-dialogue-implementation.md` | Unreal/Unity/Godot 模式、中间件、数据架构、本地化流程、QA |
 | `cross-discipline-playbook.md` | 部门沟通、协商谈判、范围管理 |
